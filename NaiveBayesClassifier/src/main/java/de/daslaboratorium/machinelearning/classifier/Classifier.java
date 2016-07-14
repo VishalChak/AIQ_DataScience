@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;
 
+
 /**
  * Abstract base extended by any concrete classifier.  It implements the basic
  * functionality for storing categories or features and can be used to calculate
