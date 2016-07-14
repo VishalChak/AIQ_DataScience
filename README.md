@@ -1,1 +1,1 @@
-# AIQ_DataScience
+# IQ_DataScience

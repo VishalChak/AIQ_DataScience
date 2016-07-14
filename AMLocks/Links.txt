@@ -1,0 +1,2 @@
+1: A-tour-of-machine-learning-algorithms:    http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+2: Top ten Machine leaning Algo:             https://www.dezyre.com/article/top-10-machine-learning-algorithms/202
