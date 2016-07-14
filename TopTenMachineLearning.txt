@@ -1,0 +1,13 @@
+ToptenMachineLearningAlgo..
+
+Naive Bayes Classifier Algo..
+K-Mean Clustering..
+Support Vector Machine Learning..
+Apriori Alogorithims
+Linear regration..
+Logistic Regration..
+Artificial Neural network
+Random Forest
+Decision Trees..
+Nearest NEighbour..
+
